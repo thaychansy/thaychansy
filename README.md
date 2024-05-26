@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thaychansy
-- 👀 I’m interested in Data Analytics/Engineering/Scinence
+- 👀 I’m interested in Data Analytics/Engineering/Science
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Visualizations
 - 📫 How to reach me thay.chansy@gmail.com
