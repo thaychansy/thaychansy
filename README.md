@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaychansy
 - :fire: I’m interested in Data Science, Machine Learning and AI Technology
-- 🌱 I’m currently learning Data Science, Analytics, Engineering and Machine Learning
+- :books: I’m currently learning Data Science, Analytics, Engineering and Machine Learning
 - :100: I’m looking to collaborate on Data Visualizations
 - 📫 How to reach me thay.chansy@gmail.com
 - ⚡ Fun fact: I love content creation on YouTube using AI technology
