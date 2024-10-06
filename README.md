@@ -6,7 +6,7 @@
 - :heart: Fun fact: I love content creation on YouTube using AI technology
 - :tv: Check out my YouTube Channel https://www.youtube.com/@thaychansy4568
 - 👀 Check out my Portfolio https://thaychansy.github.io/
-- :hugs: Check out my AI/ML Project Models https://huggingface.co/tchans123
+- :hugs: Check out my AI/ML Models and Project https://huggingface.co/tchans123
 
 <!---
 thaychansy/thaychansy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
