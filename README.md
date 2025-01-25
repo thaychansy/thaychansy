@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thaychansy
+- 👋 Hi, I’m @thaychansy (Tie Chan-See)
 - :fire: I’m interested in Data Science, Machine Learning and AI Technology
 - :books: I’m currently learning Data Science, Analytics, Engineering and Machine Learning
 - :100: I’m looking to collaborate on Data and Machine Learning Projects
